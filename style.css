@@ -1,0 +1,68 @@
+#titulo {
+    color: teal;
+}
+
+strong {
+    color: red;
+}
+
+.destacado {
+    color: orange;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+a {
+    color: red;
+}
+
+em {
+    color: blue;
+}
+
+span.especial {
+    color: purple;
+}
+
+caption {
+    color : blue;
+}
+
+td, th {
+    border: black 1px solid;
+}
+
+th {
+    color: red;
+}
+
+.especial {
+    color: orange;
+}
+
+td {
+    color: green;
+}
+
+/* + td>strong orange */
+td>strong {
+    color: orange;
+}
+
+td>em {
+    color: inherit;
+}
+
+#adicional {
+    color: olive;
+}
+
+span#especial {
+    color: fuchsia;
+}
+
+#adicional>p>a {
+    color: green;
+}
